@@ -18,20 +18,24 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Router" width="40" height="40"/>&nbsp;
-<img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React Hook Form" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SCSS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="c++" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="c#" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
-
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
+    <td><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+  </tr>
+</table>
 
 ### My stat
 
